@@ -43,5 +43,5 @@ I am assuming the role of a junior data analyst working on the marketing analyst
 
 From these insights, my team and I will design a new marketing strategy to convert casual riders into annual members. But first, Cyclistic executives must approve our recommendations, so they must be backed up with compelling data insights and professional data visualizations.
 
-## [Ask](
+## [Ask](Ask.md)
 The objective is to analyze Cyclistic’s historical trip data to identify patterns and differences between casual riders and annual members. These insights will inform marketing strategies to convert casual riders into annual members, which will be key to future growth.
