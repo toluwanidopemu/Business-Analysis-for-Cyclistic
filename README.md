@@ -46,7 +46,7 @@ From these insights, my team and I will design a new marketing strategy to conve
 ## [Ask](Ask.md)
 The objective is to analyze Cyclistic’s historical trip data to identify patterns and differences between casual riders and annual members. These insights will inform marketing strategies to convert casual riders into annual members, which will be key to future growth.
 
-## [Prepare](
+## [Prepare](Prepare.md)
 ### Data Source 
 Cyclistic’s historical trip data includes trip data from January 2024 to December 2024, provided by Motivate International Inc. via the Divvy public data license. This public dataset allows exploration of how annual members and casual riders use Cyclistic bikes differently. However, data privacy issues prohibit riders’ personally identifiable information (PII) from being included. As a result, it’s impossible to connect pass purchases to credit card numbers to determine if casual riders live in the Cyclistic service area or if they have purchased multiple single passes.
 
