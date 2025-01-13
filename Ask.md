@@ -1,5 +1,5 @@
 # Ask
-## Key Tasks: 
+## Key Tasks
 ### 1. Identify the business task: 
 - Cyclistic aims to design marketing strategies to convert casual riders into annual members
 
