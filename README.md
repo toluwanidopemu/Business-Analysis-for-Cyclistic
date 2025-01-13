@@ -45,3 +45,28 @@ From these insights, my team and I will design a new marketing strategy to conve
 
 ## [Ask](Ask.md)
 The objective is to analyze Cyclistic’s historical trip data to identify patterns and differences between casual riders and annual members. These insights will inform marketing strategies to convert casual riders into annual members, which will be key to future growth.
+
+## [Prepare](
+### Data Source 
+Cyclistic’s historical trip data includes trip data from January 2024 to December 2024, provided by Motivate International Inc. via the Divvy public data license. This public dataset allows exploration of how annual members and casual riders use Cyclistic bikes differently. However, data privacy issues prohibit riders’ personally identifiable information (PII) from being included. As a result, it’s impossible to connect pass purchases to credit card numbers to determine if casual riders live in the Cyclistic service area or if they have purchased multiple single passes.
+
+### Data Organization
+The data is organized in CSV files for each month. Each file contains rows representing individual trips and columns describing trip details.
+| Field Name         | Data Type | Description                                                    |
+|--------------------|-----------|----------------------------------------------------------------|
+| ride_id            | String    | Unique identifier for each trip                                |
+| rideable_type      | String    | Type of bike (e.g., classic, electric)                         |
+| started_at         | Timestamp | Date and time the trip started                                 |
+| ended_at           | Timestamp | Date and time the trip ended                                   |
+| start_station_name | String    | Name of the starting station                                   |
+| start_station_id   | String    | Unique identifier for the station where the trip started       |
+| end_station_name   | String    | Name of the ending station                                     |
+| end_station_id     | String    | Unique identifier for the station where the trip ended         |
+| start_lat          | Float     | Latitude coordinate of the station where the trip started      |
+| start_lng          | Float     | Longitude coordinate of the station where the trip started     |
+| end_lat            | Float     | Latitude coordinate of the station where the trip ended        |
+| end_lng            | Float     | Longitude coordinate of the station where the trip ended      |
+| member_casual      | String    | Indicates whether the rider is a casual rider or annual member |
+
+### Data Credibility 
+A trusted source provides the data, Motivate International Inc., under an open license, ensuring it is ethical and reliable to use. While the data is reliable, there are potential limitations such as missing or inconsistent data fields, which may need to be addressed during the process phase.
