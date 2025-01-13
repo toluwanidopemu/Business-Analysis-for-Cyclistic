@@ -2,7 +2,7 @@
 This repository contains the Cyclistic bike-sharing business analysis project, exploring trends and insights for casual riders vs. annual members to maximize annual memberships, which will be key for the company's future growth.
 ## Introduction
 In this case study, I will perform many real-world business analyst tasks at a fictional company, Cyclistic. To answer the business task, I will be following these steps of the data analysis process: 
-- [Ask](Ask)
+- Ask
 - Prepare
 - Process
 - Analyze
