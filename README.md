@@ -9,7 +9,7 @@ In this case study, I will perform many real-world business analyst tasks at a f
 - Share
 - Act
 ### Tools Used
-- [Python](process.md)
+- [Python](Process.md)
 - [SQL]
 - [Tableau](
 ## Background
