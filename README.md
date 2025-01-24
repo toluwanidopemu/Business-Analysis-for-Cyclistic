@@ -10,7 +10,7 @@ In this case study, I will perform many real-world business analyst tasks at a f
 - Act
 ### Tools Used
 - [Python](Process.md)
-- [SQL]
+- [SQL](Analyse.md)
 - [Tableau](
 ## Background
 ### About Cyclistic
@@ -80,7 +80,7 @@ The process phase was performed in a cloud-based Python environment on Google Co
 - Handled null (missing) values by dropping critical values that can skew the result as well as filling non-critical values
 - Transformed the dataset by adding columns such as ride_length, day_of_week_name, and month_name as these will be needed in the analyse phase.
 
-## [Analyse](
+## [Analyse](Analyse.md)
 The Analyze phase was performed in a cloud-based SQL environment on Google Colab. SQL was used to write and execute queries, uncovering insights for this portion of the project.
 
 The queries ran during this phase include: 
