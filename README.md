@@ -9,7 +9,7 @@ In this case study, I will perform many real-world business analyst tasks at a f
 - Share
 - Act
 ### Tools Used
-- [Python](
+- [Python](process.md)
 - [SQL]
 - [Tableau](
 ## Background
@@ -71,7 +71,7 @@ The data is organized in CSV files for each month. Each file contains rows repre
 ### Data Credibility 
 A trusted source provides the data, Motivate International Inc., under an open license, ensuring it is ethical and reliable to use. While the data is reliable, there are potential limitations such as missing or inconsistent data fields, which may need to be addressed during the process phase.
 
-## Process
+## [Process](Process.md)
 The process phase was performed in a cloud-based Python environment, Google Colab. The code used to write and execute this portion of the project is Python. 
 
 - In this phase, the data files were first combined into a single dataset
