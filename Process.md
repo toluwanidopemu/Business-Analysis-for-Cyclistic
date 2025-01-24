@@ -1,6 +1,10 @@
 # Process
 ## Key Tasks
 ### 1. Set up Google Colab for Jupyter Notebook (to write and execute Python code in the cloud): 
+- Ensure the Google Colab environment is ready by mounting Google Drive 
+- Installing necessary libraries
+- Uploading the folder containing all 12 data files needed for the project, and
+- Combining all files as a single dataset
 ```python
 Ensure the Google Colab environment is ready by mounting Google Drive, installing necessary libraries, uploading the folder containing all 12 data files needed for the project, and combining all files as a single dataset
 from google.colab import drive
