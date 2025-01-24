@@ -70,3 +70,12 @@ The data is organized in CSV files for each month. Each file contains rows repre
 
 ### Data Credibility 
 A trusted source provides the data, Motivate International Inc., under an open license, ensuring it is ethical and reliable to use. While the data is reliable, there are potential limitations such as missing or inconsistent data fields, which may need to be addressed during the process phase.
+
+## Process
+The process phase was performed in a cloud-based Python environment, Google Colab. The code used to write and execute this portion of the project is Python. 
+
+- In this phase, the data files were first combined into a single dataset
+- Checked the data is represented in the right data type, for example, started_at and ended_at are in datatime64[ns], start_lat/lng and end_lat/lng are in float
+- Checked for duplicated rows
+- Handled null (missing) values by dropping critical values that can skew the result as well as filling non-critical values
+- Transformed the dataset by adding columns such as ride_length, day_of_week_name, and month_name as these will be needed in the analyse phase.
