@@ -11,7 +11,7 @@ In this case study, I will perform many real-world business analyst tasks at a f
 ### Tools Used
 - [Python](Process.md)
 - [SQL](Analyse.md)
-- [Tableau](
+- [Tableau](https://public.tableau.com/views/CyclisticBusinessAnalysisVisualizations/Sheet3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ## Background
 ### About Cyclistic
 In 2016, Cyclistic launched a successful bike-share program. Since then, the program has grown
@@ -93,3 +93,24 @@ The queries ran during this phase include:
 - Time of day of trip by rider type: Casual
 - Time of day of trip by rider type: Member
 
+## [Share](
+[View Interactive Dashboard of the Key Insights Below on Tableau Public](https://public.tableau.com/views/CyclisticBusinessAnalysisVisualizations/Sheet3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+ 
+This phase visualizes key insights derived from the data analysis. These findings include:
+1. Total Rides by Rider Type:
+- Cyclistic’s current user base consists of approximately 36.16% casual riders and 63.84% annual members, as of 2024.
+- This highlights a significant opportunity to target casual riders for membership conversion.
+2. Average Ride Length Per Trip by Rider Type:
+- Casual riders have an average ride length nearly double that of annual members per trip.
+- This suggests that casual riders may primarily use Cyclistic for leisure or tourism, likely to explore the city, resulting in longer trip durations.
+3. Time of Day by Rider Type:
+- Casual riders take significantly fewer trips in the morning and evening compared to annual members, but the gap closes during the afternoon and night.
+- This indicates that annual members are likely commuting professionals who use Cyclistic for work-related travel during peak commute hours.
+4. Popular Stations:
+- Casual riders frequently use stations densely located along the coastline, while annual members’ usage is more evenly distributed across office and residential areas.
+- This suggests that casual riders might favor scenic or leisure-focused routes, whereas members’ trips align more with practical commuting needs.
+5. Frequency of Rides by Day of Week:
+- During weekdays, casual riders take significantly fewer trips than members. However, this difference narrows during the weekends, suggesting casual riders are more active during their leisure time.
+6. Seasonal Trends (Monthly Ride Patterns):
+- Casual riders take the majority of their trips between May and October, aligning with warmer weather and tourist activity.
+- In contrast, annual members exhibit a steady increase in trips over the year, with a gradual decline between October and December. This consistency reflects year-round commuting patterns.
