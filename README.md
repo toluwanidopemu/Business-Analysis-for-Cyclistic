@@ -79,3 +79,17 @@ The process phase was performed in a cloud-based Python environment on Google Co
 - Checked for duplicated rows
 - Handled null (missing) values by dropping critical values that can skew the result as well as filling non-critical values
 - Transformed the dataset by adding columns such as ride_length, day_of_week_name, and month_name as these will be needed in the analyse phase.
+
+## [Analyse](
+The Analyze phase was performed in a cloud-based SQL environment on Google Colab. SQL was used to write and execute queries, uncovering insights for this portion of the project.
+
+The queries ran during this phase include: 
+- Total rides by rider type
+- Average ride length by rider type
+- Frequency of rides by day of the week
+- Popular start station
+- Popular end station
+- Seasonal Trends (Monthly Ride Patterns)
+- Time of day of trip by rider type: Casual
+- Time of day of trip by rider type: Member
+
