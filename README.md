@@ -11,7 +11,7 @@ In this case study, I will perform many real-world business analyst tasks at a f
 ### Tools Used
 - [Python](Process.md)
 - [SQL](Analyse.md)
-- [Tableau](https://public.tableau.com/views/CyclisticBusinessAnalysisVisualizations/Sheet3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- [Tableau](https://public.tableau.com/views/CyclisticBusinessAnalysisVisualizations/WhyWouldCasualRidersWouldBuyMemberships?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ## Background
 ### About Cyclistic
 In 2016, Cyclistic launched a successful bike-share program. Since then, the program has grown
@@ -94,7 +94,7 @@ The queries ran during this phase include:
 - Time of day of trip by rider type: Member
 
 ## [Share](
-[View Interactive Dashboard of the Key Insights Below on Tableau Public](https://public.tableau.com/views/CyclisticBusinessAnalysisVisualizations/Sheet3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[View Interactive Dashboard of the Key Insights Below on Tableau Public](https://public.tableau.com/views/CyclisticBusinessAnalysisVisualizations/WhyWouldCasualRidersWouldBuyMemberships?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
  
 This phase visualizes key insights derived from the data analysis. These findings include:
 1. Total Rides by Rider Type:
