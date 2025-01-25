@@ -93,7 +93,7 @@ The queries ran during this phase include:
 - Time of day of trip by rider type: Casual
 - Time of day of trip by rider type: Member
 
-## [Share](
+## Share
 [View Interactive Dashboard of the Key Insights Below on Tableau Public](https://public.tableau.com/views/CyclisticBusinessAnalysisVisualizations/WhyWouldCasualRidersWouldBuyMemberships?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
  
 This phase visualizes key insights derived from the data analysis. These findings include:
@@ -114,3 +114,23 @@ This phase visualizes key insights derived from the data analysis. These finding
 6. Seasonal Trends (Monthly Ride Patterns):
 - Casual riders take the majority of their trips between May and October, aligning with warmer weather and tourist activity.
 - In contrast, annual members exhibit a steady increase in trips over the year, with a gradual decline between October and December. This consistency reflects year-round commuting patterns.
+
+## Act
+Moreno’s goal is to convert casual riders into annual members. Based on the analysis of Cyclistic’s historical bike trip data, here are three actionable strategies:
+
+1. Highlight Cost Savings for Casual Riders to Drive Membership Conversion
+- Key Insight: Casual riders primarily use Cyclistic bikes during May–October, with their total expenditures on single-day passes during this period potentially exceeding the cost of an annual membership.
+- Actionable Strategy:
+  - Develop targeted campaigns emphasizing how much casual riders could save by becoming annual members, based on their ride patterns.
+  - Use personalized in-app analytics to show casual riders an estimated breakdown of their savings as members, including incentives like discounts for renewing memberships.
+2. Introduce Exclusive Benefits for Annual Members Without Impacting Profitability
+- Key Insight: Casual riders are often motivated by leisure or tourism and may value experiences shared with companions.
+- Actionable Strategy:
+  - Offer annual members the ability to rent a second bike for a small additional fee during non-peak times, encouraging group rides while maintaining profitability.
+  - Consider offering a free trial membership period where casual riders can experience the benefits of being annual members, such as access to member-only perks or detailed reports on cost savings and ride history.
+3. Leverage Digital Media to Target Casual Riders at Key Locations and Times
+- Key Insight: Popular stations and peak ride times differ significantly between casual and annual riders, presenting targeted advertising opportunities.
+- Actionable Strategy:
+  - Use digital ads (Google, Instagram, and YouTube) geo-targeted to stations most frequented by casual riders.
+  - Highlight member benefits such as cost savings and exclusive perks during these campaigns.
+  - Deploy app notifications that dynamically track casual riders’ behavior, prompting them to upgrade to membership at high-use points or seasonal trends.
